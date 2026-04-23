@@ -3,7 +3,7 @@
 // Más adelante será una API web real.
 
 function sumar(a, b) {
-  return a + b +100;
+  return a + b;
 }
 
 // Esta línea hace que la función esté disponible para otros archivos (como el test)
