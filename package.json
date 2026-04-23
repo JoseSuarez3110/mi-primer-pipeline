@@ -1,0 +1,12 @@
+{
+  "name": "mi-primer-pipeline",
+  "version": "1.0.0",
+  "description": "Mi primer CI/CD pipeline",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
