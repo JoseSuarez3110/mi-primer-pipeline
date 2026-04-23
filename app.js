@@ -7,7 +7,7 @@ function sumar(a, b) {
 }
 
 app.get('/', (req, res) => {
-  res.json({ mensaje: 'Hola Mundo desde mi Pipeline CI/CD' });
+  res.json({ mensaje: 'Hola Arquitectos del Software' });
 });
 
 app.get('/sumar/:a/:b', (req, res) => {
